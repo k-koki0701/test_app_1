@@ -30,6 +30,8 @@ gem 'jbuilder', '~> 2.5'
 #summernote
 gem 'trix'
 
+gem 'webpacker'
+
 # gem 'mini_magick', '~> 4.8'
 
 # Use Capistrano for deployment
